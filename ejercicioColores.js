@@ -10,3 +10,4 @@ colores.shift();
 console.log(colores);
 //Muestra cuántos
 console.log(colores.length);
+
