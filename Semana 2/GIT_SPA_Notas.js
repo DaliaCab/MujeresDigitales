@@ -7,6 +7,7 @@
 //npm (node package Manager) es el gestor de paquetes para Node.js, permite instalar y gestionar dependencias en los proyectos de JS
 //se usa para instalar bibliotecas y herramientas necesarias para aplicaciones React
 
-//1 abrir terminal en Visual Studio
-//2 apuntar a escritorio
-//3 pner en la consola: npx create-react-app my-spa  'La app se lama 'app my-spa''
+//1 abrir terminal en Visual Studio (si no se tiene archivo react poner lo siguiente para crear uno: npx create-react-app my-app)
+//2 apuntar a carpeta my-app con: cd my-app
+//3 poner en la consola: npm start
+//4 Se despliega una web y react empieza a estar en funcionamiento
