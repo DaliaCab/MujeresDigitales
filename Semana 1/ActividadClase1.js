@@ -8,4 +8,4 @@ for(let i = 1; i <= 10; i++){
         contador++;
     }
 }
-console.log("Numeros mayores que 5: ", contador);  //Imprimimos los >5
+console.log("Numeros mayores que 5: ", contador);  //Imprimimos el número de nums >5
